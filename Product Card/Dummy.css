@@ -1,0 +1,10 @@
+*{
+    margin-left: 1px;
+    margin-right: 1px;
+}
+body{
+    background-color: #000000;
+    font-family: 'Times New Roman';
+    font-size: 18px;
+    color: white;
+}
